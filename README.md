@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/aviefakbarsyah" target="blank"><img src="https://img.shields.io/twitter/follow/aviefakbarsyah?logo=twitter&style=for-the-badge" alt="aviefakbarsyah" /></a> </p>
 
-- 🔭 I’m currently working on [Shamo](https://github.com/aviefakbarsyahputra/shamo-mobile)
-
 - 🌱 I’m currently learning **Flutter, Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aviefakbarsyahputra](https://github.com/aviefakbarsyahputra)
